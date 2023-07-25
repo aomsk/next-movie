@@ -19,7 +19,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             Next-Movie
           </Link>
         </div>
-        <div className="container md:mx-auto mt-7 mb-7 px-5 xl:px-20">{children}</div>
+        <div className="container md:mx-auto mt-7 pb-7 px-5 xl:px-20">{children}</div>
       </body>
     </html>
   );
