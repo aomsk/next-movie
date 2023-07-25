@@ -2,6 +2,10 @@
 
 Basic NextJS version 13 (use App Router)
 
+### Festures
+* All Movie Popular
+* Movie Detail
+
 ### Build With
 
 - NextJS
